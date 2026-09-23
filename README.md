@@ -53,6 +53,7 @@ These are intentionally unfinished so new users can complete them through issues
 
 ### Review checklist for beginners
 - Does the PR clearly explain what changed?
+- Does the PR link to its related issue?
 - Are file names and structure easy to follow?
 - Are there any typos or formatting issues?
 - Does the change fully solve the issue task?
