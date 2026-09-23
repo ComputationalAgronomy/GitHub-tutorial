@@ -38,18 +38,18 @@ These are intentionally unfinished so new users can complete them through issues
 
 3. **Task: Add a hello script**
    - Baseline folder: `starter-tasks/task-03-hello-script/`
-   - Done: A starter script file exists with partial structure.
-   - Finish: Implement output (`Hello GitHub Tutorial`) and add run instructions.
+   - Done: A starter script exists and prints `Hello GitHub Tutorial`.
+   - Finish: Add run instructions and optional argument-based customization.
 
 4. **Task: Add personalized greeting support**
    - Baseline folder: `starter-tasks/task-04-personalized-greeting/`
-   - Done: A starter script exists with basic input wiring.
-   - Finish: Complete personalized greeting behavior and input validation.
+   - Done: A starter script accepts input and prints a greeting.
+   - Finish: Improve validation and document expected input/output examples.
 
 5. **Task: Add one basic test**
    - Baseline folder: `starter-tasks/task-05-basic-test/`
-   - Done: A test file skeleton exists.
-   - Finish: Complete the assertion logic and add test run steps.
+   - Done: A basic test exists for the hello script output.
+   - Finish: Add test run steps and extend coverage for edge cases.
 
 ### Review checklist for beginners
 - Does the PR clearly explain what changed?

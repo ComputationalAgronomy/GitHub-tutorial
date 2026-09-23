@@ -1,6 +1,5 @@
 def main():
-    # TODO: print the exact message "Hello GitHub Tutorial"
-    message = "Hello ..."
+    message = "Hello GitHub Tutorial"
     print(message)
 
 
