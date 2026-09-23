@@ -27,24 +27,29 @@ Use this repository to practice the full GitHub flow: issue creation, branch wor
 These are intentionally unfinished so new users can complete them through issues and PRs.
 
 1. **Task: Add CONTRIBUTING guide**
-   - Done: File name and goal are defined.
-   - Finish: Create `CONTRIBUTING.md` with setup steps, branch naming, and PR checklist.
+   - Baseline folder: `starter-tasks/task-01-contributing/`
+   - Done: A starter `CONTRIBUTING.md` outline exists.
+   - Finish: Complete setup steps, branch naming guidance, and PR checklist details.
 
 2. **Task: Expand README FAQ**
-   - Done: README has a beginner section ready for extension.
-   - Finish: Add 5 FAQ items about issues, PRs, reviews, and resolving comments.
+   - Baseline folder: `starter-tasks/task-02-faq/`
+   - Done: A FAQ draft file with starter content exists.
+   - Finish: Expand to at least 5 complete FAQ entries for issues, PRs, and reviews.
 
 3. **Task: Add a hello script**
-   - Done: Script behavior is defined (`Hello GitHub Tutorial`).
-   - Finish: Implement the script in one language and document how to run it.
+   - Baseline folder: `starter-tasks/task-03-hello-script/`
+   - Done: A starter script file exists with partial structure.
+   - Finish: Implement output (`Hello GitHub Tutorial`) and add run instructions.
 
 4. **Task: Add personalized greeting support**
-   - Done: Requirement is defined (accept a name input).
-   - Finish: Update the script to accept input and print a personalized greeting.
+   - Baseline folder: `starter-tasks/task-04-personalized-greeting/`
+   - Done: A starter script exists with basic input wiring.
+   - Finish: Complete personalized greeting behavior and input validation.
 
 5. **Task: Add one basic test**
-   - Done: Test objective is defined (verify output text).
-   - Finish: Add a test file and include a short section in README on how to run the test.
+   - Baseline folder: `starter-tasks/task-05-basic-test/`
+   - Done: A test file skeleton exists.
+   - Finish: Complete the assertion logic and add test run steps.
 
 ### Review checklist for beginners
 - Does the PR clearly explain what changed?
