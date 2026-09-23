@@ -12,6 +12,6 @@ class TestHelloOutput(unittest.TestCase):
             [sys.executable, str(script_path)],
             capture_output=True,
             text=True,
-            check=True,
         )
+        self.assertEqual(result.returncode, 0, msg=result.stderr.strip())
         self.assertEqual(result.stdout.strip(), "Hello GitHub Tutorial")
