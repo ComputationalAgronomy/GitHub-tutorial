@@ -6,7 +6,9 @@ import sys
 
 class TestHelloOutput(unittest.TestCase):
     def test_hello_output(self):
-        script_path = Path(__file__).resolve().parents[1] / "task-03-hello-script" / "hello.py"
+        current_file = Path(__file__).resolve()
+        repo_root = next(parent for parent in current_file.parents if (parent / "README.md").exists())
+        script_path = repo_root / "starter-tasks" / "task-03-hello-script" / "hello.py"
         result = subprocess.run(
             [sys.executable, str(script_path)],
             capture_output=True,
