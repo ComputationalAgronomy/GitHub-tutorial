@@ -6,9 +6,8 @@ import sys
 
 class TestHelloOutput(unittest.TestCase):
     def test_hello_output(self):
-        current_file = Path(__file__).resolve()
-        repo_root = next(parent for parent in current_file.parents if (parent / ".github").is_dir())
-        script_path = repo_root / "starter-tasks" / "task-03-hello-script" / "hello.py"
+        starter_tasks_dir = Path(__file__).resolve().parents[1]
+        script_path = starter_tasks_dir / "task-03-hello-script" / "hello.py"
         result = subprocess.run(
             [sys.executable, str(script_path)],
             capture_output=True,
