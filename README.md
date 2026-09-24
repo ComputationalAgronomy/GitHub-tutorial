@@ -7,7 +7,7 @@ Use this repository to practice the full GitHub flow: issue creation, branch wor
 
 ### How to use these tasks
 1. Pick one task folder from `starter-tasks/`.
-2. Open an issue using one of the issue templates in this repository.
+2. Open an issue using the issue template in this repository.
 3. Create a branch and complete the task.
 4. Open a pull request with the PR template.
 5. Request at least one review and address feedback.

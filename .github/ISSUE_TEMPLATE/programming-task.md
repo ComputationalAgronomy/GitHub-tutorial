@@ -1,18 +1,26 @@
 ---
-name: Programming task
-about: Practice coding changes, PRs, and reviews
-title: "[Code Task] "
+name: Starter task
+about: Practice issue, PR, and review workflow
+title: "[Task] "
 labels: enhancement
 assignees: ""
 ---
 
 ## Task summary
-Describe the coding task to implement.
+Describe the task to complete.
 
-## Expected behavior
-Explain what should happen after the task is done.
+## Task type
+- [ ] Python task
+- [ ] R task
+- [ ] Non-programming workflow task
+
+## Expected result
+Explain what should be true when this task is complete.
+
+## Files to update
+List files/folders you expect to update.
 
 ## Definition of done
-- [ ] Code change implemented
+- [ ] Task work completed
 - [ ] Basic verification performed
 - [ ] Pull request opened and review requested
