@@ -1,7 +1,7 @@
 ---
-name: Starter task
-about: Track work for any starter task
-title: "[Task] "
+name: Beginner task
+about: Track work for any beginner task
+title: "[Beginner Task] "
 labels: enhancement
 assignees: ""
 ---
