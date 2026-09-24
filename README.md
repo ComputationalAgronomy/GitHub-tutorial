@@ -25,9 +25,9 @@ Use this repository to practice issue creation, branch work, pull requests, and 
 - `starter-tasks/r-rain-summary/` - finish a rainfall summary counter using a threshold.
 
 ### Non-programming tasks (harder, meaningful)
-- `starter-tasks/nonprog-data-quality-checklist/` - complete a practical data quality checklist for field records.
-- `starter-tasks/nonprog-field-observation-brief/` - build a structured field observation brief from draft notes.
-- `starter-tasks/nonprog-season-plan-retro/` - complete a season planning retrospective with actions.
+- `starter-tasks/nonprog-data-quality-checklist/` - complete a practical data quality checklist for student field trial records.
+- `starter-tasks/nonprog-field-observation-brief/` - build a structured field scouting brief from draft student notes.
+- `starter-tasks/nonprog-season-plan-retro/` - complete a season planning retrospective with actions for next semester plots.
 
 > Each folder contains detailed instructions and completion criteria.
 

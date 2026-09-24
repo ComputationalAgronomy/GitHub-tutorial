@@ -1,7 +1,7 @@
-# Data Quality Checklist (Draft)
+# Student Field Data Quality Checklist (Draft)
 
 ## Completeness checks
-- Required columns present:
+- Required columns present (plot_id, date, crop_stage, moisture):
 - No missing dates:
 - No missing location IDs:
 
@@ -15,7 +15,11 @@
 - Duplicate record detection:
 
 ## Escalation path
-- TODO
+- Student recorder flags issue to team lead
+- Team lead reviews and attempts correction
+- Unresolved issues sent to TA/instructor for decision
 
 ## Common entry risks
-- TODO
+- Plot IDs copied to the wrong row
+- Unit mix-ups (percent vs decimal moisture)
+- Dates entered in mixed formats

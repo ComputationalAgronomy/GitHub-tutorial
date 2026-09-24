@@ -1,4 +1,4 @@
-# Season Planning Retrospective (Draft)
+# Student Season Planning Retrospective (Draft)
 
 ## What worked
 - 
@@ -8,17 +8,17 @@
 
 ## Improvement actions
 1. Action:
-   - Owner:
+   - Owner (student/TA/instructor):
    - Target date:
 2. Action:
-   - Owner:
+   - Owner (student/TA/instructor):
    - Target date:
 3. Action:
-   - Owner:
+   - Owner (student/TA/instructor):
    - Target date:
 4. Action:
-   - Owner:
+   - Owner (student/TA/instructor):
    - Target date:
 5. Action:
-   - Owner:
+   - Owner (student/TA/instructor):
    - Target date:

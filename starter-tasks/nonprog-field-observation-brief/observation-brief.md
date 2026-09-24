@@ -1,13 +1,13 @@
-# Field Observation Brief (Draft)
+# Student Field Scouting Brief (Draft)
 
 ## Crop status findings
-- TODO
+- TODO: summarize stand count and visible stress by plot.
 
 ## Pest pressure findings
-- TODO
+- TODO: note weed density and pest/disease observations.
 
 ## Soil moisture findings
-- TODO
+- TODO: summarize moisture pattern across plots.
 
 ## Recommended actions
 1. Action:
@@ -21,4 +21,4 @@
    - Evidence:
 
 ## Executive summary
-- TODO
+- TODO: provide a short summary for course staff and student team priorities.
