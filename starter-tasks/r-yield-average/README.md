@@ -1,7 +1,7 @@
-# Task 04 - R yield average
+# R yield average task
 
 ## Goal
-Complete a basic R function to compute average yield.
+Complete an R function that computes average yield.
 
 ## Current baseline status
 This task is intentionally partial (<40% complete).
@@ -19,5 +19,4 @@ This task is intentionally partial (<40% complete).
 3. Add one example call in this README.
 
 ## Done criteria
-- Function handles empty/non-empty numeric vectors.
-- Uses basic function and `if/else` logic.
+- Function handles empty and non-empty numeric vectors.

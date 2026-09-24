@@ -1,7 +1,7 @@
-# Task 06 - R rain summary
+# R rain summary task
 
 ## Goal
-Complete a simple loop that counts how many days had rainfall over a threshold.
+Complete an R function that counts days with rainfall above a threshold.
 
 ## Current baseline status
 This task is intentionally partial (<40% complete).
@@ -15,10 +15,9 @@ This task is intentionally partial (<40% complete).
 
 ## What you need to finish
 1. Complete the loop condition.
-2. Increment counter when value is above threshold.
-3. Return total count.
+2. Increment the counter when a value is above threshold.
+3. Return the total count.
 4. Add one usage example in this README.
 
 ## Done criteria
-- Uses basic `for` loop and `if`.
 - Returns a single integer count.

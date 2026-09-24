@@ -1,7 +1,7 @@
-# Task 03 - Python even counter
+# Python even counter task
 
 ## Goal
-Complete a simple loop-based function that counts even numbers in a list.
+Complete a Python function that counts even numbers in a list.
 
 ## Current baseline status
 This task is intentionally partial (<40% complete).
@@ -14,11 +14,10 @@ This task is intentionally partial (<40% complete).
 - Loop skeleton is in place.
 
 ## What you need to finish
-1. Complete the `for` loop condition for even numbers.
+1. Complete the loop condition for even numbers.
 2. Update the counter correctly.
 3. Return the final count.
-4. Add one small example in this README.
+4. Add one usage example in this README.
 
 ## Done criteria
 - Function works for empty and non-empty lists.
-- No advanced syntax needed.

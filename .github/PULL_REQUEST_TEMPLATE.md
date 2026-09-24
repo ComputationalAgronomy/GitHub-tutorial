@@ -1,13 +1,8 @@
-## Summary
-What does this PR change?
+## What changed
 
 ## Related issue
-Link the issue this PR closes (example: `Closes #12`).
+Closes #
 
-## Checklist
-- [ ] I tested or checked my change
-- [ ] I updated documentation if needed
-- [ ] I am ready for review
-
-## Review focus
-Anything specific you want reviewers to check?
+## Quick check
+- [ ] Change is complete
+- [ ] Ready for review

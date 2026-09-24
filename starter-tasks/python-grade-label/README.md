@@ -1,7 +1,7 @@
-# Task 02 - Python grade label
+# Python grade label task
 
 ## Goal
-Finish a basic `if/else` function that maps numeric scores to grade labels.
+Finish a Python function that maps numeric scores to grade labels.
 
 ## Current baseline status
 This task is intentionally partial (<40% complete).
@@ -20,9 +20,9 @@ This task is intentionally partial (<40% complete).
    - 70-79 => `C`
    - 60-69 => `D`
    - below 60 => `F`
-2. Handle invalid scores (<0 or >100) by returning `Invalid`.
-3. Add 2 example calls in this README.
+2. Keep invalid score handling (`Invalid`) for values <0 or >100.
+3. Add two example calls in this README.
 
 ## Done criteria
 - Function returns a single string label.
-- All ranges map correctly.
+- All score ranges map correctly.

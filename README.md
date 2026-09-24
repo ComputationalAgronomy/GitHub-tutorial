@@ -3,7 +3,7 @@ Sandbox for learning GitHub as a team
 
 ## Beginner practice tasks
 
-Use this repository to practice the full GitHub flow: issue creation, branch work, pull requests, and reviews.
+Use this repository to practice issue creation, branch work, pull requests, and reviews.
 
 ### How to use these tasks
 1. Pick one task folder from `starter-tasks/`.
@@ -14,19 +14,26 @@ Use this repository to practice the full GitHub flow: issue creation, branch wor
 
 ## Starter tasks (high-level)
 
-### Python tasks (basic logic only)
-1. `starter-tasks/task-01-python-total-cost/` - complete a simple function with `if/else` discount logic.
-2. `starter-tasks/task-02-python-grade-label/` - finish grade labeling rules using `if/else`.
-3. `starter-tasks/task-03-python-even-counter/` - finish a `for` loop that counts even numbers.
+### Python tasks
+- `starter-tasks/python-total-cost/` - complete a function that computes final order cost with a bulk discount.
+- `starter-tasks/python-grade-label/` - finish score-to-grade labeling logic for report output.
+- `starter-tasks/python-even-counter/` - complete a function that counts even values in a list.
 
-### R tasks (basic logic only)
-4. `starter-tasks/task-04-r-yield-average/` - complete a function that calculates an average safely.
-5. `starter-tasks/task-05-r-risk-flag/` - finish `if/else` risk flag logic.
-6. `starter-tasks/task-06-r-rain-summary/` - finish a loop-based rainfall summary.
+### R tasks
+- `starter-tasks/r-yield-average/` - finish a function to calculate average yield safely.
+- `starter-tasks/r-risk-flag/` - complete moisture-based risk labeling.
+- `starter-tasks/r-rain-summary/` - finish a rainfall summary counter using a threshold.
 
 ### Non-programming tasks (harder, meaningful)
-7. `starter-tasks/task-07-nonprog-issue-triage/` - build a real issue triage plan and priorities.
-8. `starter-tasks/task-08-nonprog-pr-review-brief/` - write a complete PR review brief with concrete findings.
-9. `starter-tasks/task-09-nonprog-workflow-retro/` - produce a workflow retrospective with actionable improvements.
+- `starter-tasks/nonprog-data-quality-checklist/` - complete a practical data quality checklist for field records.
+- `starter-tasks/nonprog-field-observation-brief/` - build a structured field observation brief from draft notes.
+- `starter-tasks/nonprog-season-plan-retro/` - complete a season planning retrospective with actions.
 
-> Each folder contains a detailed README with deliverables and completion criteria.
+> Each folder contains detailed instructions and completion criteria.
+
+### Review checklist for beginners
+- Does the PR clearly explain what changed?
+- Does the PR link to its related issue?
+- Are file names and structure easy to follow?
+- Are there any typos or formatting issues?
+- Does the change fully solve the issue task?

@@ -1,26 +1,18 @@
 ---
 name: Starter task
-about: Practice issue, PR, and review workflow
+about: Track work for any starter task
 title: "[Task] "
 labels: enhancement
 assignees: ""
 ---
 
-## Task summary
-Describe the task to complete.
+## Goal
+What should be completed?
 
-## Task type
-- [ ] Python task
-- [ ] R task
-- [ ] Non-programming workflow task
+## Scope
+Which files/folders will you update?
 
-## Expected result
-Explain what should be true when this task is complete.
-
-## Files to update
-List files/folders you expect to update.
-
-## Definition of done
-- [ ] Task work completed
-- [ ] Basic verification performed
-- [ ] Pull request opened and review requested
+## Done when
+- [ ] Task is complete
+- [ ] Changes are checked
+- [ ] PR is opened
