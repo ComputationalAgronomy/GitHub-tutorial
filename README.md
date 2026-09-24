@@ -30,10 +30,3 @@ Use this repository to practice the full GitHub flow: issue creation, branch wor
 9. `starter-tasks/task-09-nonprog-workflow-retro/` - produce a workflow retrospective with actionable improvements.
 
 > Each folder contains a detailed README with deliverables and completion criteria.
-
-### Review checklist for beginners
-- Does the PR clearly explain what changed?
-- Does the PR link to its related issue?
-- Are file names and structure easy to follow?
-- Are there any typos or formatting issues?
-- Does the change fully solve the issue task?
