@@ -1,7 +1,7 @@
 # Non-programming agronomy season plan retrospective task
 
 ## Goal
-Create a meaningful retrospective for a student agronomy season planning cycle.
+Create a short, meaningful retrospective for a student agronomy season planning cycle.
 
 ## Current baseline status
 This task is intentionally partial (<40% complete).
@@ -14,11 +14,12 @@ This task is intentionally partial (<40% complete).
 - Improvement section exists with placeholders.
 
 ## What you need to finish
-1. Add at least 3 "what worked" findings.
-2. Add at least 3 "what did not work" findings.
-3. Propose 5 measurable improvement actions for the next semester.
+1. Add 2-3 "what worked" findings.
+2. Add 2-3 "what did not work" findings.
+3. Propose 3 measurable improvement actions for the next semester.
 4. Add owners and target dates for each action (student team, TA, or instructor).
 
 ## Done criteria
+- Output stays concise (target: under one page).
 - Retrospective is specific and actionable.
 - Improvement actions are trackable.
