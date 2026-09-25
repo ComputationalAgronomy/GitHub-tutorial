@@ -3,9 +3,6 @@
 ## Goal
 Create a short, practical data quality checklist for student-collected agronomy field records.
 
-## Time guideline
-Target completion time: 20-35 minutes.
-
 ## Current baseline status
 This task is intentionally partial (<40% complete).
 

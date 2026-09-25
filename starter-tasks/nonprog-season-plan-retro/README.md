@@ -3,9 +3,6 @@
 ## Goal
 Create a short, meaningful retrospective for a student agronomy season planning cycle.
 
-## Time guideline
-Target completion time: 20-35 minutes.
-
 ## Current baseline status
 This task is intentionally partial (<40% complete).
 

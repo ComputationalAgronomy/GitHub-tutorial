@@ -3,9 +3,6 @@
 ## Goal
 Build a short field scouting brief from draft notes collected by agronomy students.
 
-## Time guideline
-Target completion time: 20-35 minutes.
-
 ## Current baseline status
 This task is intentionally partial (<40% complete).
 
