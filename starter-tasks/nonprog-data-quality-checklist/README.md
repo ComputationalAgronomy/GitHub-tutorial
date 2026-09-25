@@ -3,6 +3,9 @@
 ## Goal
 Create a short, practical data quality checklist for student-collected agronomy field records.
 
+## Time guideline
+Target completion time: 20-35 minutes.
+
 ## Current baseline status
 This task is intentionally partial (<40% complete).
 
@@ -14,11 +17,11 @@ This task is intentionally partial (<40% complete).
 - Initial checklist structure exists.
 
 ## What you need to finish
-1. Define 5 concrete data quality checks.
+1. Define 4 concrete data quality checks.
 2. Add pass/fail criteria for each check in one short line.
-3. Add an escalation path for failed checks (student -> TA -> instructor).
-4. Add 2 common student data entry risks in field labs.
+3. Add a one-line escalation path for failed checks (student -> TA -> instructor).
+4. Add 1-2 common student data entry risks in field labs.
 
 ## Done criteria
-- Output stays brief (target: under one page).
+- Output stays brief (target: half page to one page).
 - Checklist is specific and usable by another teammate.

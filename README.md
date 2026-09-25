@@ -14,6 +14,8 @@ Use this repository to practice issue creation, branch work, pull requests, and 
 
 ## Starter tasks (high-level)
 
+All 9 tasks are designed for a similar effort window: **20-35 minutes each**.
+
 ### Python tasks
 - `starter-tasks/python-total-cost/` - complete a function that computes final order cost with a bulk discount.
 - `starter-tasks/python-grade-label/` - finish score-to-grade labeling logic for report output.
